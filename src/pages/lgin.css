@@ -1,7 +1,7 @@
 .login{ background-color: rgb(253, 252, 252);
     
     text-align: center;
-    background-image: url(C:\Users\fathi\OneDrive\Desktop\project\projectapp\public\assets\images\online-apparel-returns_FTR.jpeg);
+    background-image: url('/public/assets/images/online-apparel-returns_FTR.jpeg');
     background-size: cover;
     height: 690px;
     padding-top: 100px;

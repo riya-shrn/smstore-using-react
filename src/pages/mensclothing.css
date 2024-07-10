@@ -1,7 +1,7 @@
 .menimg{
     height: 300px;
     width: 98.9vw;
-    background-image: url(C:\Users\fathi\OneDrive\Desktop\project\projectapp\public\assets\images\istockphoto-887360960-612x612.jpg);
+    background-image: url('/public/assets/images/istockphoto-887360960-612x612.jpg');
 background-size: cover;
 align-content: center;
 }

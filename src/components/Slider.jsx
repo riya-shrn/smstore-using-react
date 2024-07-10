@@ -11,7 +11,7 @@ export default function Slider() {
 >
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img src="assets\images\69385802_115047156534011_2421328619604279296_n.jpg" className="d-block w-100" alt="" height={'800'} width={'300'}/>
+      <img src="assets/images/69385802_115047156534011_2421328619604279296_n.jpg" className="d-block w-100" alt="" height={'800'} width={'300'}/>
       <div className="text">
           <span className="text1">Men's Collection </span>
           <br />
@@ -22,7 +22,7 @@ export default function Slider() {
         </div>
     </div>
     <div className="carousel-item">
-      <img src="assets\images\img-02-2b5d92e9.jpg" className="d-block w-100" alt="" height={'800'} width={'300'} />
+      <img src="assets/images/img-02-2b5d92e9.jpg" className="d-block w-100" alt="" height={'800'} width={'300'} />
       <div className="text">
           <span className="text1">Women's Collection </span>
           <br />
@@ -33,7 +33,7 @@ export default function Slider() {
         </div>
     </div>
     <div className="carousel-item">
-      <img src="assets\images\img-03-3a47f185.jpg" className="d-block w-100" alt="" height={'800'} width={'300'} />
+      <img src="assets/images/img-03-3a47f185.jpg" className="d-block w-100" alt="" height={'800'} width={'300'} />
       <div className="text">
           <span className="text1">Accessories </span>
           <br />

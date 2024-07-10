@@ -1,7 +1,7 @@
 .jewelimg{
     height: 300px;
     width: 98.9vw;
-    background-image: url(C:\Users\fathi\OneDrive\Desktop\project\projectapp\public\assets\images\360_F_329566233_ybLfSQr0zLtDkE3a8WuboUgmzqiefRsU.jpg);
+    background-image: url('/public/assets/images/360_F_329566233_ybLfSQr0zLtDkE3a8WuboUgmzqiefRsU.jpg');
 background-size: cover;
 align-content: center;
 }

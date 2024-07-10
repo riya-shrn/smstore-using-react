@@ -1,7 +1,7 @@
 .womimg{
     height: 300px;
     width: 98.9vw;
-    background-image: url(C:\Users\fathi\OneDrive\Desktop\project\projectapp\public\assets\images\womens_clothing-a9735623.jpg);
+    background-image: url('/public/assets/images/womens_clothing-a9735623.jpg');
 background-size: cover;
 align-content: center;
 }

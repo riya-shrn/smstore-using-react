@@ -6,7 +6,7 @@
     width: 98.9vw;
     height: 800px;
     background-color: rgb(236, 235, 238);
-    background-image: url(C:\Users\fathi\OneDrive\Desktop\project\projectapp\public\assets\images\69385802_115047156534011_2421328619604279296_n.jpg);
+    background-image: url('/public/assets/images/69385802_115047156534011_2421328619604279296_n.jpg');
 background-size: cover;
 position: relative;
 }
