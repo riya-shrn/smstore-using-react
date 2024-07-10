@@ -1,0 +1,33 @@
+.text-white1{
+    text-decoration: none;
+    color: rgba(245, 241, 241, 0.639);
+}
+.col-md-4{
+    color: rgba(245, 241, 241, 0.639);
+}
+.col-md-2{
+    color: rgba(245, 241, 241, 0.639);
+}
+.main{
+    width: 98.9vw;
+    background-color: black;
+    position: relative;
+}
+.btn{
+height: 25px;
+width: 25px;
+justify-content: center;
+}
+.col-md-5 {
+   position: absolute;
+   left: 24%;
+   top: 87%;
+   
+}
+.bi bi-facebook{
+    position: absolute;
+    left: 80%;
+    
+    
+}
+

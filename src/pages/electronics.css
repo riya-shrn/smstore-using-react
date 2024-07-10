@@ -1,0 +1,42 @@
+.imgelec{
+    height: 300px;
+    width: 98.9vw;
+background-image: url(C:\Users\fathi\OneDrive\Desktop\project\projectapp\public\assets\images\istockphoto-1202574020-170667a.webp);
+background-size: cover;
+align-content: center;
+
+}
+.headelec h1{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    
+
+    
+    
+}
+.elec-api{
+    height: 550px;
+    width: 300px ;
+    background-color: white;
+    border: none;
+    padding-left: 1.5rem;
+    padding-right:1.5rem;
+    padding-top: 1.5rem;
+    
+}
+.elecrate{
+    text-align: right;
+
+    
+    
+}
+.conelec{
+    height: 600px;
+    padding-top: 70px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.textelec{
+    justify-content: left;
+}

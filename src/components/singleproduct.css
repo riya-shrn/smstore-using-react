@@ -1,0 +1,20 @@
+.mainsingle{
+    background-color: white;
+    height: 600px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+.textsingle{
+   width: 400px;
+   padding-left: 50px;
+   position: relative;
+    
+}
+.btnsing {
+    border-radius: 0%;
+    position: absolute;
+    left: 86%;
+
+}

@@ -1,0 +1,79 @@
+.main{
+    z-index: 10;
+    position: sticky;
+    top: 0%;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;;
+}
+
+.navbar {
+    padding: 0%;
+}
+.container-fluid{
+    background-color: white;
+    height: 80px;
+    width: 100vw;
+  
+  
+}
+
+.profile{
+    border: 0.5px solid rgba(0, 0, 0, 0.153);
+    width: 100px;
+    align-content: center;
+    padding-left: 5.5%;
+}
+
+.fav{
+    border: 0.5px solid rgba(0, 0, 0, 0.151);
+    width: 100px;
+     align-content: center;
+     padding-left: 5.5%;
+}
+
+.bag{
+    border: 0.5px solid rgba(0, 0, 0, 0.13);
+    width:100px;
+    align-content: center;
+    padding-left: 5.5%;
+}
+
+.nav-link{
+    border-radius: 0%;
+    padding: 0%;
+}
+
+.navbar-brand{
+    padding-left: 5%;
+}
+.all {
+    padding-left: 6%;
+}
+.d-flex{
+    padding-left: 39%;
+    height: 80px;
+}
+.form-control me-2{
+    width: 48%;
+    
+}
+.form-control{
+    line-height: 4.16;
+    color: rgba(0, 0, 0, 0.212);
+    font-weight: 600;
+    border-radius: 0%;
+}
+.select{
+    position: absolute;
+    left: 357px;
+    top: 40%;   
+}
+.btn3{
+    color: black;
+    text-decoration: none;
+}
+.bi2{
+    position: absolute;
+    left: 1045px;
+    top: 47%;
+
+}

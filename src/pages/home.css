@@ -1,0 +1,103 @@
+.main1{
+    width: 97.9vw;
+    height: 3000px;
+}
+.one{
+    width: 98.9vw;
+    height: 800px;
+    background-color: rgb(236, 235, 238);
+    background-image: url(C:\Users\fathi\OneDrive\Desktop\project\projectapp\public\assets\images\69385802_115047156534011_2421328619604279296_n.jpg);
+background-size: cover;
+position: relative;
+}
+
+.text1{
+    font-size: 50PX;
+    font-weight: 400
+}
+.text2{
+    font-size: 80px;
+    
+ 
+}
+/* .btn {
+background-color: rgb(13, 13, 118);
+border-radius: 30px;
+width: 130px;
+} */
+.text{
+   
+    position: absolute;
+    left: 9%;
+    top: 46%;
+
+}
+.container{
+width: 98.9vw;
+height: 300px;
+align-content: center;
+}
+.col-lg-2{
+    border: 0.5px solid rgba(0, 0, 0, 0.29);
+    height: 190px;
+   
+    margin: 5px;
+  
+    
+}
+.row{
+    
+    /* column-gap: 2px; */
+    /* --bs-gutter-x: -21.5rem; */
+    justify-content: center;
+    height: 100px;
+   
+}
+.col2{
+    background-image:url() ;
+    color: black;
+    position: relative;
+}
+
+.container2{
+    padding-top: 30px;
+    height:100px;
+}
+.colt{
+    text-decoration: none;
+    color: black;
+    
+}
+.card{
+    height: 530px;
+    width: 318px ;
+    background-color: white;
+    /* border: none; */
+    padding-left: 1.5rem;
+    padding-right:1.5rem;
+    padding-top: 1.5rem;
+    
+
+    
+    
+
+}
+.container4{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+.text6{
+    text-align: left;
+}
+.rate{
+    text-align: right;
+    
+}
+.foothome{
+justify-content: baseline;
+}
+
+
+
+
